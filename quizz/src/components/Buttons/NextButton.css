@@ -1,0 +1,30 @@
+:root {
+  --white: #fff1d0;
+  --primary: #086788;
+  --primary-light: #06aed5;
+  --secondary: #f0c808;
+  --third: #dd1c1a;
+}
+
+.nextButtonContainer {
+  width: 15vw;
+  height: 6vh;
+  background-color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  margin-top: 8vh;
+  margin-right: 2vw;
+  cursor: pointer;
+}
+
+.nextButtonText {
+  color: var(--secondary);
+  font-size: 2.5rem;
+  transition: 0.2s;
+}
+
+.nextButtonContainer:hover > .nextButtonText {
+  color: var(--primary-light);
+}

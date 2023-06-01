@@ -1,0 +1,36 @@
+:root {
+  --white: #fff1d0;
+  --primary: #086788;
+  --primary-light: #06aed5;
+  --secondary: #f0c808;
+  --third: #dd1c1a;
+}
+
+.navbarContainer {
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.homeIcon {
+  margin-top: 2vh;
+  width: 6vw;
+  height: 6vh;
+  color: var(--white);
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.homeIcon:hover {
+  color: var(--primary);
+}
+
+.score {
+  font-size: 3rem;
+  margin-right: 50%;
+  transform: translate(50%);
+  color: var(--white);
+  font-weight: 700;
+}

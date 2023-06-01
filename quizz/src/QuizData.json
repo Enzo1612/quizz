@@ -1,0 +1,328 @@
+[
+  {
+    "quizId": "quiz1",
+    "quizName": "video game",
+    "questions": [
+      {
+        "question": "Which video game franchise holds the record for the most sequels ?",
+        "answers": [
+          {
+            "text": "Call of Duty",
+            "isCorrect": false
+          },
+          {
+            "text": "Super Mario",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Assassin's Creed",
+            "isCorrect": true
+          },
+          {
+            "text": "The Legend of Zelda",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which game character is often mistakenly referred to as Zelda ?",
+        "answers": [
+          {
+            "text": "Link (The Legend of Zelda)",
+            "isCorrect": true
+          },
+          {
+            "text": "Mario (Super Mario)",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Kratos (God of War)",
+            "isCorrect": false
+          },
+          {
+            "text": "Lara Croft (Tomb Raider)",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT a playable character in the game Overwatch ?",
+        "answers": [
+          {
+            "text": "Mercy",
+            "isCorrect": false
+          },
+          {
+            "text": "Petras",
+            "isCorrect": true
+          },
+
+          {
+            "text": "Doomfist",
+            "isCorrect": false
+          },
+          {
+            "text": "Tracer",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which of these game consoles was released first ?",
+        "answers": [
+          {
+            "text": "Nintendo 64",
+            "isCorrect": false
+          },
+          {
+            "text": "Xbox 360",
+            "isCorrect": false
+          },
+
+          {
+            "text": "PlayStation 2",
+            "isCorrect": true
+          },
+          {
+            "text": "Sega Dreamcast",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which game is known for its iconic Creeper enemy ?",
+        "answers": [
+          {
+            "text": "Minecraft",
+            "isCorrect": true
+          },
+          {
+            "text": "Fortnite",
+            "isCorrect": false
+          },
+
+          {
+            "text": "League of Legends",
+            "isCorrect": false
+          },
+          {
+            "text": "World of Warcraft",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which video game series is set in the post-apocalyptic wasteland of a nuclear war ?",
+        "answers": [
+          {
+            "text": "The Elder Scrolls",
+            "isCorrect": false
+          },
+          {
+            "text": "Grand Theft Auto",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Battlefield",
+            "isCorrect": false
+          },
+          {
+            "text": "Fallout",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "question": "Which of the following characters is NOT a member of the Super Smash Bros ?",
+        "answers": [
+          {
+            "text": "Mario",
+            "isCorrect": false
+          },
+          {
+            "text": "Sonic",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Goku",
+            "isCorrect": true
+          },
+          {
+            "text": "Donkey Kong",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which game introduced the popular battle royale game mode ?",
+        "answers": [
+          {
+            "text": "Apex Legends",
+            "isCorrect": false
+          },
+          {
+            "text": "PlayerUnknown's Battlegrounds (PUBG)",
+            "isCorrect": true
+          },
+
+          {
+            "text": "Fortnite",
+            "isCorrect": false
+          },
+          {
+            "text": "Call of Duty: Warzone",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which video game company developed the game series The Witcher ?",
+        "answers": [
+          {
+            "text": "CD Projekt Red",
+            "isCorrect": true
+          },
+          {
+            "text": "Rockstar Games",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Naughty Dog",
+            "isCorrect": false
+          },
+          {
+            "text": "BioWare",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which of the following is NOT a main character in the game The Last of Us ?",
+        "answers": [
+          {
+            "text": "Nathan",
+            "isCorrect": false
+          },
+          {
+            "text": "Abby",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Ellie",
+            "isCorrect": false
+          },
+          {
+            "text": "Joel",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "quizId": "quiz2",
+    "quizName": "quiz2",
+    "questions": [
+      {
+        "question": "Question 1",
+        "answers": [
+          {
+            "text": "Answer 1",
+            "isCorrect": true
+          },
+          {
+            "text": "Answer 2",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Answer 3",
+            "isCorrect": false
+          },
+          {
+            "text": "Answer 4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Question 2",
+        "answers": [
+          {
+            "text": "Answer 1",
+            "isCorrect": true
+          },
+          {
+            "text": "Answer 2",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Answer 3",
+            "isCorrect": false
+          },
+          {
+            "text": "Answer 4",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "quizId": "quiz3",
+    "quizName": "quiz3",
+    "questions": [
+      {
+        "question": "Question 1",
+        "answers": [
+          {
+            "text": "Answer 1",
+            "isCorrect": true
+          },
+          {
+            "text": "Answer 2",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Answer 3",
+            "isCorrect": false
+          },
+          {
+            "text": "Answer 4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Question 2",
+        "answers": [
+          {
+            "text": "Answer 1",
+            "isCorrect": true
+          },
+          {
+            "text": "Answer 2",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Answer 3",
+            "isCorrect": false
+          },
+          {
+            "text": "Answer 4",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]

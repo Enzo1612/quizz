@@ -1,0 +1,13 @@
+.scoreContainer {
+  width: 100vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scoreP {
+  margin-bottom: 10vh;
+  font-size: 5rem;
+  color: black;
+}
