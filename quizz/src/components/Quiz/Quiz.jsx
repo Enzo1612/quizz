@@ -29,10 +29,10 @@ function Quiz() {
     }
     currentQuestion.answers.map((answer, index) => {
       if (answer.isCorrect === true) {
-        document.getElementById(index).style.backgroundColor = "green";
+        document.getElementById(index).style.backgroundColor = "#4cc9f0";
         document.getElementById(index).style.pointerEvents = "none";
       } else {
-        document.getElementById(index).style.backgroundColor = "red";
+        document.getElementById(index).style.backgroundColor = "#f72585";
         document.getElementById(index).style.pointerEvents = "none";
       }
     });
@@ -41,7 +41,7 @@ function Quiz() {
   const nextQuestion = () => {
     const elements = document.getElementsByClassName("quizButtons");
     for (let i = 0; i < elements.length; i++) {
-      elements[i].style.backgroundColor = "#086788";
+      elements[i].style.backgroundColor = "#3a0ca3";
       elements[i].style.pointerEvents = "auto";
     }
     document.getElementById("nextButtonContainer").style.display = "none";

@@ -1,9 +1,10 @@
 :root {
-  --white: #fff1d0;
-  --primary: #086788;
-  --primary-light: #06aed5;
-  --secondary: #f0c808;
-  --third: #dd1c1a;
+  --white: #edf2f4;
+  --primary: #4361ee;
+  --primary-light: #4cc9f0;
+  --primary-dark: #3a0ca3;
+  --secondary: #7209b7;
+  --third: #f72585;
 }
 
 .quizContainer {
@@ -30,13 +31,20 @@
 
 .quizTitle {
   font-size: 3rem;
-  font-weight: 500;
-  margin-right: -15vw;
+  font-weight: 700;
+  color: var(--primary-dark);
+  text-transform: capitalize;
+  text-decoration: underline;
+  margin-right: -17vw;
 }
 
 .quizScore {
   font-size: 2rem;
   width: 15vw;
+  margin-right: 1vw;
+  text-align: center;
+  border: 3px solid var(--third);
+  border-radius: 6px;
 }
 
 .quizBottom {
@@ -48,6 +56,7 @@
 }
 
 .quizQuestions {
+  width: 66vw;
   font-size: 3rem;
   margin: 0 1vw;
   text-align: center;
@@ -58,17 +67,13 @@
   margin-bottom: 2vh;
   width: 30vw;
   border: none;
-  background-color: var(--primary);
+  background-color: var(--primary-dark);
   color: var(--white);
   border-radius: 6px;
   font-size: 1.5rem;
   cursor: pointer;
 }
 
-.blue {
-  background-color: blue;
-}
-
-.quizAnswers {
-  font-size: 1.5rem;
+.quizButtons:hover {
+  color: var(--third);
 }

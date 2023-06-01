@@ -227,48 +227,224 @@
   },
   {
     "quizId": "quiz2",
-    "quizName": "quiz2",
+    "quizName": "general knowledge",
     "questions": [
       {
-        "question": "Question 1",
+        "question": "What is the capital city of France ?",
         "answers": [
           {
-            "text": "Answer 1",
+            "text": "Paris",
             "isCorrect": true
           },
           {
-            "text": "Answer 2",
+            "text": "Rome",
             "isCorrect": false
           },
 
           {
-            "text": "Answer 3",
+            "text": "Madrid",
             "isCorrect": false
           },
           {
-            "text": "Answer 4",
+            "text": "London",
             "isCorrect": false
           }
         ]
       },
       {
-        "question": "Question 2",
+        "question": "Who painted the famous artwork Mona Lisa ?",
         "answers": [
           {
-            "text": "Answer 1",
-            "isCorrect": true
+            "text": "Pablo Picasso",
+            "isCorrect": false
           },
           {
-            "text": "Answer 2",
+            "text": "Vincent van Gogh",
             "isCorrect": false
           },
 
           {
-            "text": "Answer 3",
+            "text": "Leonardo da Vinci",
+            "isCorrect": true
+          },
+          {
+            "text": "Michelangelo",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which planet is known as the Red Planet ?",
+        "answers": [
+          {
+            "text": "Mars",
+            "isCorrect": true
+          },
+          {
+            "text": "Jupiter",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Saturn",
             "isCorrect": false
           },
           {
-            "text": "Answer 4",
+            "text": "Venus",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which country is home to the kangaroo ?",
+        "answers": [
+          {
+            "text": "South Africa",
+            "isCorrect": false
+          },
+          {
+            "text": "Canada",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Brazil",
+            "isCorrect": false
+          },
+          {
+            "text": "Australia",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "question": "Which famous scientist developed the theory of relativity ?",
+        "answers": [
+          {
+            "text": "Isaac Newton",
+            "isCorrect": false
+          },
+          {
+            "text": "Albert Einstein",
+            "isCorrect": true
+          },
+
+          {
+            "text": "Galileo Galilei",
+            "isCorrect": false
+          },
+          {
+            "text": "Nikola Tesla",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "What is the largest ocean on Earth ?",
+        "answers": [
+          {
+            "text": "Pacific Ocean",
+            "isCorrect": true
+          },
+          {
+            "text": "Atlantic Ocean",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Indian Ocean",
+            "isCorrect": false
+          },
+          {
+            "text": "Arctic Ocean",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Who is the author of the Harry Potter book series ?",
+        "answers": [
+          {
+            "text": "Stephen King",
+            "isCorrect": false
+          },
+          {
+            "text": "George R.R. Martin",
+            "isCorrect": false
+          },
+
+          {
+            "text": "J.K. Rowling",
+            "isCorrect": true
+          },
+          {
+            "text": "Jane Austen",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Which musical instrument is known as the king of instruments ?",
+        "answers": [
+          {
+            "text": "Piano",
+            "isCorrect": false
+          },
+          {
+            "text": "Violin",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Trumpet",
+            "isCorrect": false
+          },
+          {
+            "text": "Pipe organ",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "question": "Which country hosted the 2016 Summer Olympics ?",
+        "answers": [
+          {
+            "text": "United States",
+            "isCorrect": false
+          },
+          {
+            "text": "China",
+            "isCorrect": false
+          },
+
+          {
+            "text": "Brazil",
+            "isCorrect": true
+          },
+          {
+            "text": "Russia",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "Who wrote the play Romeo and Juliet ?",
+        "answers": [
+          {
+            "text": "Tennessee Williams",
+            "isCorrect": false
+          },
+          {
+            "text": "William Shakespeare",
+            "isCorrect": true
+          },
+
+          {
+            "text": "Arthur Miller",
+            "isCorrect": false
+          },
+          {
+            "text": "Oscar Wilde",
             "isCorrect": false
           }
         ]

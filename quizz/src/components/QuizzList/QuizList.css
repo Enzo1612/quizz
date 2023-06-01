@@ -1,11 +1,11 @@
 :root {
-  --white: #fff1d0;
-  --primary: #086788;
-  --primary-light: #06aed5;
-  --secondary: #f0c808;
-  --third: #dd1c1a;
+  --white: #edf2f4;
+  --primary: #4361ee;
+  --primary-light: #4cc9f0;
+  --primary-dark: #3a0ca3;
+  --secondary: #7209b7;
+  --third: #f72585;
 }
-
 .quizListContainer {
   margin: 5vh 2vw;
   height: 70vh;
@@ -17,7 +17,8 @@
 }
 
 h1 {
-  color: var(--secondary);
+  font-size: 3rem;
+  color: var(--primary-light);
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
@@ -32,15 +33,17 @@ h1 {
 }
 
 .quizzListLi {
-  font-size: 2rem;
+  font-size: 3rem;
   background-color: var(--white);
-  color: var(--primary);
+  color: var(--primary-dark);
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 15vh;
-  width: 15vw;
+  width: 25vw;
   border-radius: 6px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  text-transform: capitalize;
 }
