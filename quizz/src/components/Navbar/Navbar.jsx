@@ -6,7 +6,7 @@ import { AiFillHome } from "react-icons/ai";
 function Navbar() {
   return (
     <div className="navbarContainer">
-      <Link to="/">
+      <Link to="/quizz">
         <AiFillHome className="homeIcon" />
       </Link>
     </div>
