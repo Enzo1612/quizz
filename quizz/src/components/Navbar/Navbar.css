@@ -1,10 +1,11 @@
 :root {
   --white: #edf2f4;
-  --primary: #4361ee;
-  --primary-light: #4cc9f0;
-  --primary-dark: #3a0ca3;
-  --secondary: #7209b7;
-  --third: #f72585;
+  --primary: #4cc9f0;
+  --primary-light: #bccce0;
+  --primary-dark: #312f2f;
+  --secondary: #84dccf;
+  --third: #bf98a0;
+  --black: #312f2f;
 }
 
 .navbarContainer {
@@ -19,11 +20,11 @@
   margin-top: 2vh;
   width: 6vw;
   height: 6vh;
-  color: var(--primary-light);
-  transition: 0.2s;
+  color: var(--primary-dark);
+  transition: 0.1s;
   cursor: pointer;
 }
 
 .homeIcon:hover {
-  color: var(--primary);
+  color: var(--white);
 }
